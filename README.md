@@ -32,12 +32,7 @@ This repository is suitable for:
 
 - Complete beginners
 - University students
-- Software engineering students
-- Backend developers
-- Full-stack developers
 - QA engineers
-- Data analysts
-- Anyone preparing for SQL interviews
 
 ## Repository Structure
 
